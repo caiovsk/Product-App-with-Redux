@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "title": "English Tea",
+      "category": "Food",
+      "id": 1,
+      "available": false
+    },
+    {
+      "title": "Learning Web Design",
+      "category": "Book",
+      "id": 2,
+      "available": true
+    },
+    {
+      "title": "T-Shirt",
+      "category": "Clothing",
+      "available": true,
+      "id": 3
+    },
+    {
+      "title": "iPhone",
+      "category": "Electronics",
+      "available": false,
+      "id": 4
+    }
+  ]
+}
